@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "run": "run-000",
+  "specimen": "antfarm-daily",
+  "started_at": "2026-09-16T17:38:00Z",
+  "ended_at": "2026-09-17T12:00:00Z",
+  "end_reason": "closed by the human as a successful proof of concept; no product code was merged",
+  "specimen_tag": "run-000",
+  "queen": { "model": "claude-sonnet-5", "max_turns": 30 },
+  "worker": { "model": "claude-sonnet-5", "max_turns": 60 },
+  "toolkit": [],
+  "notes": "Telemetry for this run was kept as JSON comments on Issue #1 of the specimen and migrated here afterwards (events/legacy-issue-ledger.jsonl, schema_version 0). It includes infrastructure smoke-test executions that happened before the human note of 2026-09-16T18:05Z."
+}
