@@ -1,0 +1,26 @@
+{
+  "today": {
+    "date": "2026-09-17",
+    "queen_runs": 0,
+    "worker_runs": 0
+  },
+  "week": {
+    "since": "2026-09-14",
+    "tokens": 2240832,
+    "cost_usd": 1.31
+  },
+  "schema_version": 1,
+  "specimen": "antfarm-daily",
+  "updated_at": "2026-09-17T14:59:57Z",
+  "active_run": "run-001",
+  "run": {
+    "executions": 1,
+    "failed": 1,
+    "blocked": 0
+  },
+  "last_event": {
+    "ts": "2026-09-17T14:59:57Z",
+    "type": "worker.failed",
+    "actor": "worker"
+  }
+}
