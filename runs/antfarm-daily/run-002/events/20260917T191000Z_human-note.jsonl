@@ -1,1 +1,0 @@
-{"schema_version":1,"event_id":"human-20260917T1910Z-1","ts":"2026-09-17T19:10:00Z","run":"run-002","specimen":"antfarm-daily","execution_id":"human-20260917T1910Z","actor":{"type":"human"},"type":"human.note","note":"Weekly budget raised 1.8x by the human (specimen commit follows ce434b0): conservative cost US$30 to US$54, raw tokens 25M to 45M."}
