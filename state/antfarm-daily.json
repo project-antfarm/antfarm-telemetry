@@ -18,16 +18,16 @@
   },
   "schema_version": 1,
   "specimen": "antfarm-daily",
-  "updated_at": "2026-09-18T14:52:21Z",
+  "updated_at": "2026-09-18T14:52:47Z",
   "active_run": "run-002",
   "run": {
-    "executions": 23,
-    "failed": 1,
+    "executions": 24,
+    "failed": 2,
     "blocked": 3
   },
   "last_event": {
-    "ts": "2026-09-18T14:52:21Z",
-    "type": "queen.completed",
+    "ts": "2026-09-18T14:52:47Z",
+    "type": "queen.failed",
     "actor": "queen"
   }
 }
