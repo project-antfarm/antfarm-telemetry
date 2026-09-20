@@ -3,14 +3,14 @@
     "date": "2026-09-20",
     "utc_offset_hours": -3,
     "run": "run-002",
-    "queen_runs": 1,
+    "queen_runs": 2,
     "worker_runs": 1
   },
   "week": {
     "since": "2026-09-20T16:00:00Z",
-    "tokens": 8070920,
-    "cost_usd": 7.87,
-    "reported_cost_usd": 4.02
+    "tokens": 9590614,
+    "cost_usd": 11,
+    "reported_cost_usd": 5.93
   },
   "budget": {
     "weekly_cost_usd": 85,
@@ -18,16 +18,16 @@
   },
   "schema_version": 1,
   "specimen": "antfarm-daily",
-  "updated_at": "2026-09-20T16:16:07Z",
+  "updated_at": "2026-09-20T16:21:31Z",
   "active_run": "run-002",
   "run": {
-    "executions": 32,
+    "executions": 33,
     "failed": 4,
     "blocked": 14
   },
   "last_event": {
-    "ts": "2026-09-20T16:16:07Z",
-    "type": "worker.completed",
-    "actor": "worker"
+    "ts": "2026-09-20T16:21:31Z",
+    "type": "queen.completed",
+    "actor": "queen"
   }
 }
