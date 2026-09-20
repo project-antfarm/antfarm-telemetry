@@ -1,6 +1,6 @@
 {
   "today": {
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "utc_offset_hours": -3,
     "run": "run-002",
     "queen_runs": 0,
@@ -18,15 +18,15 @@
   },
   "schema_version": 1,
   "specimen": "antfarm-daily",
-  "updated_at": "2026-09-19T22:59:49Z",
+  "updated_at": "2026-09-20T04:50:23Z",
   "active_run": "run-002",
   "run": {
     "executions": 30,
     "failed": 4,
-    "blocked": 12
+    "blocked": 13
   },
   "last_event": {
-    "ts": "2026-09-19T22:59:49Z",
+    "ts": "2026-09-20T04:50:23Z",
     "type": "guard.blocked",
     "actor": "queen"
   }
