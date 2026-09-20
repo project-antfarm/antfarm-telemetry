@@ -18,15 +18,15 @@
   },
   "schema_version": 1,
   "specimen": "antfarm-daily",
-  "updated_at": "2026-09-20T04:50:23Z",
+  "updated_at": "2026-09-20T11:18:18Z",
   "active_run": "run-002",
   "run": {
     "executions": 30,
     "failed": 4,
-    "blocked": 13
+    "blocked": 14
   },
   "last_event": {
-    "ts": "2026-09-20T04:50:23Z",
+    "ts": "2026-09-20T11:18:18Z",
     "type": "guard.blocked",
     "actor": "queen"
   }
